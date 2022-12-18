@@ -1,4 +1,4 @@
-# CS-230
+# Operating Platforms
 
 Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
 **The gaming room application required multiple teams to guess what image was being drawn from random stock images. One instance of the game and 
